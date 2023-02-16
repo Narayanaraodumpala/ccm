@@ -1,0 +1,802 @@
+[
+{
+    "model": "hospital.chroniccondition",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.643Z",
+        "modified_at": "2022-11-29T07:57:13.643Z",
+        "is_active": true,
+        "disease_name": "Asthama"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.648Z",
+        "modified_at": "2022-11-29T07:57:13.648Z",
+        "is_active": true,
+        "disease_name": "CKD"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.651Z",
+        "modified_at": "2022-11-29T07:57:13.651Z",
+        "is_active": true,
+        "disease_name": "Depression"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.654Z",
+        "modified_at": "2022-11-29T07:57:13.654Z",
+        "is_active": true,
+        "disease_name": "Diabetes Care"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 5,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.657Z",
+        "modified_at": "2022-11-29T07:57:13.657Z",
+        "is_active": true,
+        "disease_name": "Epilepsy"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 6,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.659Z",
+        "modified_at": "2022-11-29T07:57:13.659Z",
+        "is_active": true,
+        "disease_name": "Glaucoma"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 7,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.662Z",
+        "modified_at": "2022-11-29T07:57:13.662Z",
+        "is_active": true,
+        "disease_name": "Heart Failure"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 8,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.665Z",
+        "modified_at": "2022-11-29T07:57:13.665Z",
+        "is_active": true,
+        "disease_name": "Hypertension"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 9,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.668Z",
+        "modified_at": "2022-11-29T07:57:13.668Z",
+        "is_active": true,
+        "disease_name": "Rheumatoid Arthritis"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 10,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.670Z",
+        "modified_at": "2022-11-29T07:57:13.670Z",
+        "is_active": true,
+        "disease_name": "Inflammatory Bowel Disease"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 11,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.673Z",
+        "modified_at": "2022-11-29T07:57:13.673Z",
+        "is_active": true,
+        "disease_name": "CAD"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 12,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.675Z",
+        "modified_at": "2022-11-29T07:57:13.675Z",
+        "is_active": true,
+        "disease_name": "Chronic Obstructive Pulmonary Disease and Bronchie"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 13,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.678Z",
+        "modified_at": "2022-11-29T07:57:13.678Z",
+        "is_active": true,
+        "disease_name": "HTN"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 14,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.680Z",
+        "modified_at": "2022-11-29T07:57:13.680Z",
+        "is_active": true,
+        "disease_name": "Osteoporosis"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 15,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.683Z",
+        "modified_at": "2022-11-29T07:57:13.683Z",
+        "is_active": true,
+        "disease_name": "Stroke"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 16,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.685Z",
+        "modified_at": "2022-11-29T07:57:13.685Z",
+        "is_active": true,
+        "disease_name": "Acquired Hypothyroidism"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 17,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.688Z",
+        "modified_at": "2022-11-29T07:57:13.688Z",
+        "is_active": true,
+        "disease_name": "Acute Myocardial Infarction"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 18,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.691Z",
+        "modified_at": "2022-11-29T07:57:13.691Z",
+        "is_active": true,
+        "disease_name": "Alzheimer's Disease"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 19,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.694Z",
+        "modified_at": "2022-11-29T07:57:13.694Z",
+        "is_active": true,
+        "disease_name": "ADHD, Conduct Disorders, and Hyperkinetic Syndrome"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 20,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.696Z",
+        "modified_at": "2022-11-29T07:57:13.696Z",
+        "is_active": true,
+        "disease_name": "Schizophrenia"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 21,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.699Z",
+        "modified_at": "2022-11-29T07:57:13.699Z",
+        "is_active": true,
+        "disease_name": "Alcohol Use Disorders"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 22,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.701Z",
+        "modified_at": "2022-11-29T07:57:13.701Z",
+        "is_active": true,
+        "disease_name": "Anxiety Disorders"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 23,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.704Z",
+        "modified_at": "2022-11-29T07:57:13.704Z",
+        "is_active": true,
+        "disease_name": "Asthma"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 24,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.706Z",
+        "modified_at": "2022-11-29T07:57:13.706Z",
+        "is_active": true,
+        "disease_name": "Atrial Fibrilation"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 25,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.709Z",
+        "modified_at": "2022-11-29T07:57:13.709Z",
+        "is_active": true,
+        "disease_name": "Bipolar disorder"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 26,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.711Z",
+        "modified_at": "2022-11-29T07:57:13.711Z",
+        "is_active": true,
+        "disease_name": "Cancer Care"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 27,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.713Z",
+        "modified_at": "2022-11-29T07:57:13.713Z",
+        "is_active": true,
+        "disease_name": "Chronic Wound Care"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 28,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.715Z",
+        "modified_at": "2022-11-29T07:57:13.715Z",
+        "is_active": true,
+        "disease_name": "Chronic Obstructive Pulmonary Disease and Bronchiectasis"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 29,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.718Z",
+        "modified_at": "2022-11-29T07:57:13.718Z",
+        "is_active": true,
+        "disease_name": "Diabetes"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 30,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.720Z",
+        "modified_at": "2022-11-29T07:57:13.720Z",
+        "is_active": true,
+        "disease_name": "Drug Use Disorders"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 31,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.723Z",
+        "modified_at": "2022-11-29T07:57:13.723Z",
+        "is_active": true,
+        "disease_name": "Fibromyalgia, Chronic Pain and Fatigue"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 32,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.725Z",
+        "modified_at": "2022-11-29T07:57:13.725Z",
+        "is_active": true,
+        "disease_name": "Hepatitis C"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 33,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.727Z",
+        "modified_at": "2022-11-29T07:57:13.727Z",
+        "is_active": true,
+        "disease_name": "HIV/AIDS"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 34,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.729Z",
+        "modified_at": "2022-11-29T07:57:13.730Z",
+        "is_active": true,
+        "disease_name": "Hyperlipidemia"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 35,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.732Z",
+        "modified_at": "2022-11-29T07:57:13.732Z",
+        "is_active": true,
+        "disease_name": "Intellectual Disabilities and Related Conditions"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 36,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.734Z",
+        "modified_at": "2022-11-29T07:57:13.734Z",
+        "is_active": true,
+        "disease_name": "Ischemic Heart Disease"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 37,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.736Z",
+        "modified_at": "2022-11-29T07:57:13.736Z",
+        "is_active": true,
+        "disease_name": "IVD"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 38,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.739Z",
+        "modified_at": "2022-11-29T07:57:13.739Z",
+        "is_active": true,
+        "disease_name": "Leukemias and Lymphomas"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 39,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.741Z",
+        "modified_at": "2022-11-29T07:57:13.741Z",
+        "is_active": true,
+        "disease_name": "Melanoma"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 40,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.744Z",
+        "modified_at": "2022-11-29T07:57:13.744Z",
+        "is_active": true,
+        "disease_name": "Muscular Dystrophy"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 41,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.749Z",
+        "modified_at": "2022-11-29T07:57:13.749Z",
+        "is_active": true,
+        "disease_name": "Other Developmental Delays"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 42,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.753Z",
+        "modified_at": "2022-11-29T07:57:13.753Z",
+        "is_active": true,
+        "disease_name": "Peripheral Vascular Disease (PVD)"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 43,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.757Z",
+        "modified_at": "2022-11-29T07:57:13.757Z",
+        "is_active": true,
+        "disease_name": "Personality Disorders"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 44,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.759Z",
+        "modified_at": "2022-11-29T07:57:13.759Z",
+        "is_active": true,
+        "disease_name": "Pressure and Chronic Ulcers"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 45,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.763Z",
+        "modified_at": "2022-11-29T07:57:13.763Z",
+        "is_active": true,
+        "disease_name": "RA/OA (Rheumatoid Arthritis/ Osteoarthritis)"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 46,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.770Z",
+        "modified_at": "2022-11-29T07:57:13.770Z",
+        "is_active": true,
+        "disease_name": "Schizophrenia and Other Psychotic Disorders"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 47,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.776Z",
+        "modified_at": "2022-11-29T07:57:13.776Z",
+        "is_active": true,
+        "disease_name": "Stroke / Transient Ischemic Attack"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 48,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.779Z",
+        "modified_at": "2022-11-29T07:57:13.779Z",
+        "is_active": true,
+        "disease_name": "Substance Abuse"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 49,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.784Z",
+        "modified_at": "2022-11-29T07:57:13.784Z",
+        "is_active": true,
+        "disease_name": "Anemia"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 50,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.787Z",
+        "modified_at": "2022-11-29T07:57:13.787Z",
+        "is_active": true,
+        "disease_name": "Benigh Prostatic Hyperplasia"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 51,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.790Z",
+        "modified_at": "2022-11-29T07:57:13.790Z",
+        "is_active": true,
+        "disease_name": "Hip/Pelvic Fracture"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 52,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.793Z",
+        "modified_at": "2022-11-29T07:57:13.793Z",
+        "is_active": true,
+        "disease_name": "Prostate cancer"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 53,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.796Z",
+        "modified_at": "2022-11-29T07:57:13.796Z",
+        "is_active": true,
+        "disease_name": "Lung Cancer"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 54,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.798Z",
+        "modified_at": "2022-11-29T07:57:13.798Z",
+        "is_active": true,
+        "disease_name": "Endometrial Cancer"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 55,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.801Z",
+        "modified_at": "2022-11-29T07:57:13.801Z",
+        "is_active": true,
+        "disease_name": "Autism Spectrum Disorders"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 56,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.803Z",
+        "modified_at": "2022-11-29T07:57:13.803Z",
+        "is_active": true,
+        "disease_name": "Cerebral Palsy"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 57,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.806Z",
+        "modified_at": "2022-11-29T07:57:13.806Z",
+        "is_active": true,
+        "disease_name": "Cystic Fibrosis and Other Metabolic Developmental Disorders"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 58,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.808Z",
+        "modified_at": "2022-11-29T07:57:13.808Z",
+        "is_active": true,
+        "disease_name": "Learning Disabilities"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 59,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.810Z",
+        "modified_at": "2022-11-29T07:57:13.810Z",
+        "is_active": true,
+        "disease_name": "Liver Disease, Cirrhosis and Other Liver Conditions"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 60,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.813Z",
+        "modified_at": "2022-11-29T07:57:13.813Z",
+        "is_active": true,
+        "disease_name": "Migraine and Chronic Headache"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 61,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.815Z",
+        "modified_at": "2022-11-29T07:57:13.815Z",
+        "is_active": true,
+        "disease_name": "Mobility Impairments"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 62,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.817Z",
+        "modified_at": "2022-11-29T07:57:13.817Z",
+        "is_active": true,
+        "disease_name": "Multiple Sclerosis and Transverse Myelitis"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 63,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.820Z",
+        "modified_at": "2022-11-29T07:57:13.820Z",
+        "is_active": true,
+        "disease_name": "Obesity"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 64,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.823Z",
+        "modified_at": "2022-11-29T07:57:13.823Z",
+        "is_active": true,
+        "disease_name": "Peripheral Vascular Disease"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 65,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.825Z",
+        "modified_at": "2022-11-29T07:57:13.825Z",
+        "is_active": true,
+        "disease_name": "Post-Traumatic Stress Disorder"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 66,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.828Z",
+        "modified_at": "2022-11-29T07:57:13.828Z",
+        "is_active": true,
+        "disease_name": "Spina Bifida and Other Congenital Anomalies of the Nervous System"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 67,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.830Z",
+        "modified_at": "2022-11-29T07:57:13.830Z",
+        "is_active": true,
+        "disease_name": "Spinal Cord Injury"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 68,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.835Z",
+        "modified_at": "2022-11-29T07:57:13.835Z",
+        "is_active": true,
+        "disease_name": "Traumatic Brain Injury and Nonpsychotic Mental Disorders due to Brain Damage"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 69,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.838Z",
+        "modified_at": "2022-11-29T07:57:13.838Z",
+        "is_active": true,
+        "disease_name": "Viral Hepatitis"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 70,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.841Z",
+        "modified_at": "2022-11-29T07:57:13.841Z",
+        "is_active": true,
+        "disease_name": "Depressive Disorders"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 71,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.844Z",
+        "modified_at": "2022-11-29T07:57:13.844Z",
+        "is_active": true,
+        "disease_name": "Sensory – Deafness and Hearing Impairment"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 72,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.847Z",
+        "modified_at": "2022-11-29T07:57:13.847Z",
+        "is_active": true,
+        "disease_name": "Colorectal Cancer"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 73,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.850Z",
+        "modified_at": "2022-11-29T07:57:13.850Z",
+        "is_active": true,
+        "disease_name": "Cataract"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 74,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.853Z",
+        "modified_at": "2022-11-29T07:57:13.853Z",
+        "is_active": true,
+        "disease_name": "Tobacco Use"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 75,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.856Z",
+        "modified_at": "2022-11-29T07:57:13.856Z",
+        "is_active": true,
+        "disease_name": "Human Immunodeficiency Virus and/or Acquired Immunodeficiency Syndrome (HIV/AIDS)"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 76,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.858Z",
+        "modified_at": "2022-11-29T07:57:13.858Z",
+        "is_active": true,
+        "disease_name": "Female / Male Breast Cancer"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 77,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.861Z",
+        "modified_at": "2022-11-29T07:57:13.861Z",
+        "is_active": true,
+        "disease_name": "Sensory Blindness and Visual Impairment"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 78,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.863Z",
+        "modified_at": "2022-11-29T07:57:13.863Z",
+        "is_active": true,
+        "disease_name": "COPD"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 79,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.865Z",
+        "modified_at": "2022-11-29T07:57:13.865Z",
+        "is_active": true,
+        "disease_name": "ESRD"
+    }
+},
+{
+    "model": "hospital.chroniccondition",
+    "pk": 80,
+    "fields": {
+        "created_at": "2022-11-29T07:57:13.869Z",
+        "modified_at": "2022-11-29T07:57:13.869Z",
+        "is_active": true,
+        "disease_name": "Chronic Obstructive Pulmonary Disease"
+    }
+}
+]

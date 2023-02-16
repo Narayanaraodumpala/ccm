@@ -1,0 +1,32 @@
+[
+{
+    "model": "patient.programinformationtype",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-12-05T10:57:54.335Z",
+        "modified_at": "2022-12-05T10:57:54.335Z",
+        "is_active": true,
+        "program_name": "CCM"
+    }
+},
+{
+    "model": "patient.programinformationtype",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-12-05T10:58:04.086Z",
+        "modified_at": "2022-12-05T10:58:04.087Z",
+        "is_active": true,
+        "program_name": "AWV"
+    }
+},
+{
+    "model": "patient.programinformationtype",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-12-05T10:58:11.927Z",
+        "modified_at": "2022-12-05T10:58:11.927Z",
+        "is_active": true,
+        "program_name": "TM"
+    }
+}
+]

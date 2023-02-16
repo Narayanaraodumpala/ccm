@@ -1,0 +1,9 @@
+.idea
+.env
+db.sqlite3
+*.pyc
+**/migrations
+mediafiles
+static
+revision_be/static
+venv

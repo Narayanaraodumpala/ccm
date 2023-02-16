@@ -1,0 +1,1104 @@
+[
+{
+    "model": "assessment.question",
+    "pk": 1,
+    "fields": {
+        "created_at": "2022-11-24T15:53:57.387Z",
+        "modified_at": "2022-11-24T15:53:57.387Z",
+        "is_active": true,
+        "question_category": 1,
+        "inquiry": "High Fall Risk - Implement High Fall Risk interventions per protocol",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 2,
+    "fields": {
+        "created_at": "2022-11-24T15:54:59.152Z",
+        "modified_at": "2022-11-24T15:54:59.152Z",
+        "is_active": true,
+        "question_category": 1,
+        "inquiry": "Low Fall Risk - Implement Low Fall Risk interventions per protocol",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 3,
+    "fields": {
+        "created_at": "2022-11-24T15:55:10.292Z",
+        "modified_at": "2022-12-20T11:18:52.094Z",
+        "is_active": true,
+        "question_category": 1,
+        "inquiry": "Age (single-select)",
+        "question_type": "SINGLE_SELECT",
+        "option_1": "60 - 69 years (1 point)",
+        "option_2": "70- 79 years (2 points)",
+        "option_3": "greater than or equal to 80 years (3 points)",
+        "option_4": "",
+        "option_5": "",
+        "ask": "Age",
+        "ask_description": "single-select"
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 4,
+    "fields": {
+        "created_at": "2022-11-24T15:55:20.516Z",
+        "modified_at": "2022-12-20T11:20:48.488Z",
+        "is_active": true,
+        "question_category": 1,
+        "inquiry": "Fall History (single-select)",
+        "question_type": "SINGLE_SELECT",
+        "option_1": "One fall within 6 months before admission (5 points)",
+        "option_2": "",
+        "option_3": "",
+        "option_4": "",
+        "option_5": "",
+        "ask": "Fall History",
+        "ask_description": "single-select"
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 5,
+    "fields": {
+        "created_at": "2022-11-24T15:55:31.332Z",
+        "modified_at": "2022-12-20T11:24:20.188Z",
+        "is_active": true,
+        "question_category": 1,
+        "inquiry": "Elimination, Bowel and Urine (single-select)",
+        "question_type": "SINGLE_SELECT",
+        "option_1": "incontinence (2 points)",
+        "option_2": "Urgency or frequency (2 points)",
+        "option_3": "Urgency/frequency and incontinence (4 points)",
+        "option_4": "",
+        "option_5": "",
+        "ask": "Elimination, Bowel and Urine",
+        "ask_description": "single-select"
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 6,
+    "fields": {
+        "created_at": "2022-11-24T15:55:43.853Z",
+        "modified_at": "2022-12-20T11:28:44.747Z",
+        "is_active": true,
+        "question_category": 1,
+        "inquiry": "Medications: Includes PCA/opiates, anticonvulsants, anti-hypertensives, diuretics, hypnotics,laxatives, sedatives, and psychotropics (single-select)",
+        "question_type": "SINGLE_SELECT",
+        "option_1": "One 1 high fall risk drug (3 points)",
+        "option_2": "One 2 or more high fall risk drugs (5 points)",
+        "option_3": "Sedated procedure within past 24 hours (7 points)",
+        "option_4": "",
+        "option_5": "",
+        "ask": "Medications",
+        "ask_description": "single-select"
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 7,
+    "fields": {
+        "created_at": "2022-11-24T15:56:16.351Z",
+        "modified_at": "2022-12-20T11:31:08.906Z",
+        "is_active": true,
+        "question_category": 1,
+        "inquiry": "Patient Care Equipment: Any equipment that tethers patient (e.g., IV infusion, chest tube, indwelling catheter, SCDs, etc.) (single-select)",
+        "question_type": "SINGLE_SELECT",
+        "option_1": "One present (1 point)",
+        "option_2": "Two present (2 points)",
+        "option_3": "3 or more present (3 points)",
+        "option_4": "",
+        "option_5": "",
+        "ask": "Patient Care Equipment",
+        "ask_description": "single-select"
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 8,
+    "fields": {
+        "created_at": "2022-11-24T15:56:27.768Z",
+        "modified_at": "2022-12-20T11:36:06.358Z",
+        "is_active": true,
+        "question_category": 1,
+        "inquiry": "Mobility (multi-select; choose all that apply and add points together)",
+        "question_type": null,
+        "option_1": "Requires assistance or supervision for mobility, transfer, or ambulation (2 points)",
+        "option_2": "Unsteady gait (2 points)",
+        "option_3": "Visual or auditory impairment affecting mobility (2 points)",
+        "option_4": "",
+        "option_5": "",
+        "ask": "Mobility",
+        "ask_description": "multi-select"
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 9,
+    "fields": {
+        "created_at": "2022-11-24T15:56:39.362Z",
+        "modified_at": "2022-12-20T11:40:30.027Z",
+        "is_active": true,
+        "question_category": 1,
+        "inquiry": "Cognition (multi-select; choose all that apply and add points together)",
+        "question_type": "MULTI_SELECT",
+        "option_1": "Altered awareness of immediate physical environment (1point)",
+        "option_2": "Impulsive (2 points)",
+        "option_3": "Lack of understanding  of one's physical and cognition limitations (2 points)",
+        "option_4": "",
+        "option_5": "",
+        "ask": "Cognition",
+        "ask_description": "multi-select"
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 10,
+    "fields": {
+        "created_at": "2022-11-24T15:57:14.965Z",
+        "modified_at": "2022-11-24T15:57:14.965Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I am Between 50 and 59 years of age",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 11,
+    "fields": {
+        "created_at": "2022-11-24T15:57:24.945Z",
+        "modified_at": "2022-11-24T15:57:24.945Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I am Between 60 and 69 years of age",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 12,
+    "fields": {
+        "created_at": "2022-11-24T15:57:32.995Z",
+        "modified_at": "2022-11-24T15:57:32.995Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I am 70 years old or older",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 13,
+    "fields": {
+        "created_at": "2022-11-24T15:57:41.720Z",
+        "modified_at": "2022-11-24T15:57:41.720Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I am a women",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 14,
+    "fields": {
+        "created_at": "2022-11-24T15:57:51.073Z",
+        "modified_at": "2022-11-24T15:57:51.073Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I had/have anemia",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 15,
+    "fields": {
+        "created_at": "2022-11-24T15:58:00.318Z",
+        "modified_at": "2022-11-24T15:58:00.318Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I have high blood pressure",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 16,
+    "fields": {
+        "created_at": "2022-11-24T15:58:08.675Z",
+        "modified_at": "2022-11-24T15:58:08.675Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I am diabetic",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 17,
+    "fields": {
+        "created_at": "2022-11-24T15:58:18.566Z",
+        "modified_at": "2022-11-24T15:58:18.566Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I have a history of heart attack or stroke",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 18,
+    "fields": {
+        "created_at": "2022-11-24T15:58:27.996Z",
+        "modified_at": "2022-11-24T15:58:27.996Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I have a history of congestive heart failure or heart failure",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 19,
+    "fields": {
+        "created_at": "2022-11-24T15:58:36.644Z",
+        "modified_at": "2022-11-24T15:58:36.644Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I have circulation disease in my legs",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 20,
+    "fields": {
+        "created_at": "2022-11-24T15:58:46.305Z",
+        "modified_at": "2022-11-24T15:58:46.305Z",
+        "is_active": true,
+        "question_category": 2,
+        "inquiry": "I have protein in my urine",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 21,
+    "fields": {
+        "created_at": "2022-11-24T15:59:08.187Z",
+        "modified_at": "2022-11-24T15:59:08.187Z",
+        "is_active": true,
+        "question_category": 3,
+        "inquiry": "Little interest or pleasure in doing things?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 22,
+    "fields": {
+        "created_at": "2022-11-24T15:59:17.014Z",
+        "modified_at": "2022-11-24T15:59:17.014Z",
+        "is_active": true,
+        "question_category": 3,
+        "inquiry": "Feeling down, depressed, or hopeless?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 23,
+    "fields": {
+        "created_at": "2022-11-24T15:59:25.886Z",
+        "modified_at": "2022-11-24T15:59:25.886Z",
+        "is_active": true,
+        "question_category": 3,
+        "inquiry": "Trouble falling or staying asleep, or sleeping too much?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 24,
+    "fields": {
+        "created_at": "2022-11-24T15:59:34.075Z",
+        "modified_at": "2022-11-24T15:59:34.075Z",
+        "is_active": true,
+        "question_category": 3,
+        "inquiry": "Feeling tired or having little energy?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 25,
+    "fields": {
+        "created_at": "2022-11-24T15:59:45.154Z",
+        "modified_at": "2022-11-24T15:59:45.154Z",
+        "is_active": true,
+        "question_category": 3,
+        "inquiry": "Poor appetite or overeating?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 26,
+    "fields": {
+        "created_at": "2022-11-24T15:59:55.154Z",
+        "modified_at": "2022-11-24T15:59:55.154Z",
+        "is_active": true,
+        "question_category": 3,
+        "inquiry": "Feeling bad about yourself - or that you are a failure or have let yourself or your family down?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 27,
+    "fields": {
+        "created_at": "2022-11-24T16:00:07.276Z",
+        "modified_at": "2022-11-24T16:00:07.276Z",
+        "is_active": true,
+        "question_category": 3,
+        "inquiry": "Trouble concentrating on things, such as reading the newspaper or watching television?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 28,
+    "fields": {
+        "created_at": "2022-11-24T16:00:22.084Z",
+        "modified_at": "2022-11-24T16:00:22.084Z",
+        "is_active": true,
+        "question_category": 3,
+        "inquiry": "Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 29,
+    "fields": {
+        "created_at": "2022-11-24T16:00:32.968Z",
+        "modified_at": "2022-11-24T16:00:32.968Z",
+        "is_active": true,
+        "question_category": 3,
+        "inquiry": "Thoughts that you would be better off dead, or of hurting yourself in some way?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 30,
+    "fields": {
+        "created_at": "2022-11-24T16:02:31.108Z",
+        "modified_at": "2022-11-24T16:02:31.108Z",
+        "is_active": true,
+        "question_category": 4,
+        "inquiry": "What is the date? (exact only)",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 31,
+    "fields": {
+        "created_at": "2022-11-24T16:02:53.665Z",
+        "modified_at": "2022-11-24T16:02:53.665Z",
+        "is_active": true,
+        "question_category": 4,
+        "inquiry": "Please mark in all the numbers to indicate the hours of a clock (correct spacing required)",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 32,
+    "fields": {
+        "created_at": "2022-11-24T16:03:09.585Z",
+        "modified_at": "2022-11-24T16:03:48.190Z",
+        "is_active": true,
+        "question_category": 4,
+        "inquiry": "Please mark in hands to show 10 minutes past eleven o’clock",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 33,
+    "fields": {
+        "created_at": "2022-11-24T16:05:04.034Z",
+        "modified_at": "2022-11-24T16:05:04.034Z",
+        "is_active": true,
+        "question_category": 4,
+        "inquiry": "Can you tell me something that happened in the news recently?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 34,
+    "fields": {
+        "created_at": "2022-11-24T16:05:14.328Z",
+        "modified_at": "2022-11-24T16:05:14.328Z",
+        "is_active": true,
+        "question_category": 4,
+        "inquiry": "What was the name and address I asked you to remember",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 35,
+    "fields": {
+        "created_at": "2022-11-24T16:05:25.624Z",
+        "modified_at": "2022-11-24T16:05:25.624Z",
+        "is_active": true,
+        "question_category": 4,
+        "inquiry": "Does he or she have more trouble recalling conversations a few days later?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 36,
+    "fields": {
+        "created_at": "2022-11-24T16:05:36.557Z",
+        "modified_at": "2022-11-24T16:05:36.557Z",
+        "is_active": true,
+        "question_category": 4,
+        "inquiry": "When speaking, does the patient have more difficulty in finding the right word or tend to use the wrong words more often?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 37,
+    "fields": {
+        "created_at": "2022-11-24T16:05:47.129Z",
+        "modified_at": "2022-11-24T16:05:47.129Z",
+        "is_active": true,
+        "question_category": 4,
+        "inquiry": "Is the patient less able to manage money and financial affairs (e.g. paying bills, budgeting)?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 38,
+    "fields": {
+        "created_at": "2022-11-24T16:06:09.665Z",
+        "modified_at": "2022-11-24T16:06:09.665Z",
+        "is_active": true,
+        "question_category": 4,
+        "inquiry": "Is the patient less able to manage his or her medication independently?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 39,
+    "fields": {
+        "created_at": "2022-11-24T16:07:15.560Z",
+        "modified_at": "2022-11-24T16:07:15.560Z",
+        "is_active": true,
+        "question_category": 5,
+        "inquiry": "Please select your gender.",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 40,
+    "fields": {
+        "created_at": "2022-11-24T16:07:34.272Z",
+        "modified_at": "2022-11-24T16:07:34.272Z",
+        "is_active": true,
+        "question_category": 5,
+        "inquiry": "How often do you have a drink containing alcohol?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 41,
+    "fields": {
+        "created_at": "2022-11-24T16:07:45.534Z",
+        "modified_at": "2022-11-24T16:07:45.534Z",
+        "is_active": true,
+        "question_category": 5,
+        "inquiry": "How many standard drinks containing alcohol do you have on a typical day when drinking?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 42,
+    "fields": {
+        "created_at": "2022-11-24T16:07:54.682Z",
+        "modified_at": "2022-11-24T16:07:54.682Z",
+        "is_active": true,
+        "question_category": 5,
+        "inquiry": "How often do you have six or more drinks on one occasion?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 43,
+    "fields": {
+        "created_at": "2022-11-24T16:08:05.221Z",
+        "modified_at": "2022-11-24T16:08:05.221Z",
+        "is_active": true,
+        "question_category": 5,
+        "inquiry": "During the past year, how often have you found that you were not able to stop drinking once you had started?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 44,
+    "fields": {
+        "created_at": "2022-11-24T16:08:16.516Z",
+        "modified_at": "2022-11-24T16:08:16.516Z",
+        "is_active": true,
+        "question_category": 5,
+        "inquiry": "During the past year, how often have you failed to do what was normally expected of you because of drinking?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 45,
+    "fields": {
+        "created_at": "2022-11-24T16:08:33.490Z",
+        "modified_at": "2022-11-24T16:08:33.490Z",
+        "is_active": true,
+        "question_category": 5,
+        "inquiry": "During the past year, how often have you needed a drink in the morning to get yourself going after a heavy drinking session?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 46,
+    "fields": {
+        "created_at": "2022-11-24T16:08:42.261Z",
+        "modified_at": "2022-11-24T16:08:42.261Z",
+        "is_active": true,
+        "question_category": 5,
+        "inquiry": "During the past year, how often have you had a feeling of guilt or remorse after drinking?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 47,
+    "fields": {
+        "created_at": "2022-11-24T16:08:55.401Z",
+        "modified_at": "2022-11-24T16:08:55.401Z",
+        "is_active": true,
+        "question_category": 5,
+        "inquiry": "During the past year, how often have you been unable to remember what happened the night before because you had been drinking?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 48,
+    "fields": {
+        "created_at": "2022-11-24T16:09:22.546Z",
+        "modified_at": "2022-11-24T16:09:22.546Z",
+        "is_active": true,
+        "question_category": 5,
+        "inquiry": "Have you or someone else been injured as a result of your drinking?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 49,
+    "fields": {
+        "created_at": "2022-11-24T16:09:57.987Z",
+        "modified_at": "2022-11-24T16:09:57.987Z",
+        "is_active": true,
+        "question_category": 6,
+        "inquiry": "How old were you when you first tried tobacco?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 50,
+    "fields": {
+        "created_at": "2022-11-24T16:10:30.247Z",
+        "modified_at": "2022-11-24T16:10:30.247Z",
+        "is_active": true,
+        "question_category": 6,
+        "inquiry": "How old were you when you started smoking or using chewregularly?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 51,
+    "fields": {
+        "created_at": "2022-11-24T16:10:41.789Z",
+        "modified_at": "2022-11-24T16:10:41.789Z",
+        "is_active": true,
+        "question_category": 6,
+        "inquiry": "Please check which kinds of tobacco you use now",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 52,
+    "fields": {
+        "created_at": "2022-11-24T16:11:00.816Z",
+        "modified_at": "2022-11-24T16:11:00.816Z",
+        "is_active": true,
+        "question_category": 6,
+        "inquiry": "How many other tobacco users live with you (do not include yourself) and who are they (spouse, child)?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 53,
+    "fields": {
+        "created_at": "2022-11-24T16:11:37.473Z",
+        "modified_at": "2022-11-24T16:11:37.473Z",
+        "is_active": true,
+        "question_category": 6,
+        "inquiry": "Do you sometimes awaken at night to smoke?Do you sometimes awaken at night to smoke?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 54,
+    "fields": {
+        "created_at": "2022-11-24T16:12:24.456Z",
+        "modified_at": "2022-11-24T16:12:24.456Z",
+        "is_active": true,
+        "question_category": 6,
+        "inquiry": "How many times have you quit for at least 24 hours?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 55,
+    "fields": {
+        "created_at": "2022-11-24T16:12:35.254Z",
+        "modified_at": "2022-11-24T16:12:35.254Z",
+        "is_active": true,
+        "question_category": 6,
+        "inquiry": "When was the last time you tried to quit smoking or using tobacco?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 56,
+    "fields": {
+        "created_at": "2022-11-24T16:12:47.134Z",
+        "modified_at": "2022-11-24T16:12:47.134Z",
+        "is_active": true,
+        "question_category": 6,
+        "inquiry": "What medications have you used in the past to stop smoking or using tobacco? Please checkall.",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 57,
+    "fields": {
+        "created_at": "2022-11-24T16:12:56.542Z",
+        "modified_at": "2022-11-24T16:12:56.542Z",
+        "is_active": true,
+        "question_category": 6,
+        "inquiry": "If you have quit before, what things triggered you to return to smoking or using tobacco? Please check all that apply:",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+},
+{
+    "model": "assessment.question",
+    "pk": 58,
+    "fields": {
+        "created_at": "2022-11-24T16:13:14.621Z",
+        "modified_at": "2022-11-24T16:13:14.621Z",
+        "is_active": true,
+        "question_category": 6,
+        "inquiry": "What harmful or negative effects has smoking caused you?",
+        "question_type": null,
+        "option_1": null,
+        "option_2": null,
+        "option_3": null,
+        "option_4": null,
+        "option_5": null,
+        "ask": null,
+        "ask_description": null
+    }
+}
+]
